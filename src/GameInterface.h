@@ -38,7 +38,7 @@ public:
     
     // Optional: If the game supports an optimal opening move, override this method.
     // The default implementation does nothing.
-    virtual bool optimalOpeningMove(Move &move) { return false; }
+    virtual bool optimalOpeningMove(Move & /*move*/) { return false; }
 };
 
 #endif // GAME_INTERFACE_H
