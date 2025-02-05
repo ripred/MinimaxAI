@@ -1,0 +1,27 @@
+########################################################
+# Syntax Coloring Map for MinimaxAI Library
+########################################################
+# Datatypes (KEYWORD1)
+########################################################
+MinimaxAI	KEYWORD1
+Move	KEYWORD1
+GameInterface	KEYWORD1
+
+########################################################
+# Methods, Functions, and Globals (KEYWORD2)
+########################################################
+evaluateBoard	KEYWORD2
+generateMoves	KEYWORD2
+applyMove	KEYWORD2
+undoMove	KEYWORD2
+isGameOver	KEYWORD2
+currentPlayer	KEYWORD2
+optimalOpeningMove	KEYWORD2
+
+findBestMove	KEYWORD2
+
+########################################################
+# Constants (LITERAL1)
+########################################################
+#Betty	LITERAL1
+#Dino	LITERAL1
